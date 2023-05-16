@@ -6,13 +6,13 @@ Mood Swings is a project that will use technologies to perform facial emotion re
 
 ## Key Technologies 
 
-### Amazon Recognition
-
-Offers the capabilities to analyze facial structures to determine individuals moods. The technology also is trained to use videos and photos to develop machine learning.
-
 ### OpenCV Python
 
 Python Library that allows for image and video processing
+
+### Keras
+
+An open-source software library that provides a Python interface for artificial neural networks.
 
 ## Sources for Research
 
